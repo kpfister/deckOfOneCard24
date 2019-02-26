@@ -8,7 +8,6 @@ Students who complete this project independently are able to:
 * Create and use IBActions to run code on a UIControlEvent
 * Work  through the logic required for a flashlights functions
 
-
 ## Guide
 ---
 ### Storyboard Setup
